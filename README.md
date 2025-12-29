@@ -27,4 +27,4 @@ in einem professionellen Entwicklungsteam.
 
 ## 📫 Kontakt
 - GitHub: https://github.com/knostijr
-- LinkedIn: (falls vorhanden)
+- LinkedIn: https://www.linkedin.com/in/christoph-konst/
