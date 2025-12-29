@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Moin, mein Name ist Christoph Konst
 
-<!--
-**knostijr/knostijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend / Backend Developer mit Fokus auf sauberen Code,
+praxisnahe Projekte und moderne Webtechnologien.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+**Frontend:**  
+- HTML, CSS, JavaScript  
+- React, TypeScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:**  
+- Python, Django, Django REST Framework  
+- PostgreSQL, SQLite  
+
+**Tools & Workflow:**  
+- Git & GitHub  
+- REST APIs  
+- Basic Testing  
+- Agile Grundlagen  
+
+## 📌 Aktuelle Projekte
+👉 Siehe unten angepinnte Repositories  
+
+## 🎯 Ziel
+Einstieg als **Junior Frontend Developer** oder **Junior Backend Developer**  
+in einem professionellen Entwicklungsteam.
+
+## 📫 Kontakt
+- GitHub: https://github.com/knostijr
+- LinkedIn: (falls vorhanden)
